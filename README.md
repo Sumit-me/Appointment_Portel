@@ -2,6 +2,8 @@
 
 The College Appointment System is a web-based application designed to facilitate the scheduling of appointments between students and professors. The system allows students to book appointments with professors, and professors to manage their availability and appointments.
 
+App link : https://voluble-scone-e3b1dd.netlify.app/
+
 ## Features
 
 * Student registration and login
